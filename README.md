@@ -1,5 +1,3 @@
-# Project 2 Repo
-
 ## 281 Project 2 Learning Outcomes
 
 - A web API or Application Programming Interface is an API accessed using the HTTP protocol
