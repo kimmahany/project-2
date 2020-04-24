@@ -40,16 +40,22 @@ body {
 
 button {
   font: bold 24px Arial;
-  background-color: black;
-  color: lime;
+  background-color: white;
+  color: #80c0d8;
   padding: 2px 6px 2px 6px;
   border-radius: 10px;
-  border: 1px solid #CCCCCC;
+  border: 1px solid #cccccc;
 }
 
 #lead-photo {
-  width: 200px;
+  width: 300px;
   margin: auto;
   padding: 1em;
-  border-radius: 50px;
+  border-radius: 35px;
+}
+
+input[type="text"] {
+  font-size: 18px;
+  color: black;
+  background-color: #80c0d8;
 }
